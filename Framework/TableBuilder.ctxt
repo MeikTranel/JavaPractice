@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=TableBuilder
+comment0.text=\r\n\r\n\ @author\ bbsuser\r\n
+comment1.params=_headers\ _spacing
+comment1.target=TableBuilder(java.lang.String[],\ int)
+comment2.params=_row
+comment2.target=void\ AddRow(java.lang.String[])
+comment3.params=_row
+comment3.target=void\ UpdateColumnWidths(java.lang.String[])
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

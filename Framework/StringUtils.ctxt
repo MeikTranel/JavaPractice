@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=StringUtils
+comment0.text=\r\n\r\n\ @author\ bbsuser\r\n
+comment1.params=s\ n
+comment1.target=java.lang.String\ padRight(java.lang.String,\ int)
+numComments=2

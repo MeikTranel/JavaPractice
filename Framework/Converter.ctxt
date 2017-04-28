@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Converter
+comment1.params=value
+comment1.target=java.lang.String\ ToGermanCurrency(double)
+comment2.params=gallons
+comment2.target=double\ GallonToLiter(double)
+comment3.params=liters
+comment3.target=double\ LiterToGallon(double)
+numComments=4
