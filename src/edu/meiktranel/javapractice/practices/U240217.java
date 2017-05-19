@@ -1,16 +1,12 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package Practices;
 
-import Framework.BaseUebung;
-import Framework.IUebung;
+package edu.meiktranel.javapractice.practices;
+
+import edu.meiktranel.javapractice.framework.BaseUebung;
+import edu.meiktranel.javapractice.framework.IUebung;
 
 /**
  *
- * @author bbsuser
+ * @author meiktranel
  */
 public class U240217 extends BaseUebung implements IUebung{
     public void DoWhileSample(int nenner, int teiler){        

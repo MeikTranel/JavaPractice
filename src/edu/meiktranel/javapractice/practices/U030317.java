@@ -1,8 +1,7 @@
-package Practices;
+package edu.meiktranel.javapractice.practices;
 
-import Framework.BaseUebung;
-import Framework.IUebung;
-import java.util.Locale;
+import edu.meiktranel.javapractice.framework.BaseUebung;
+import edu.meiktranel.javapractice.framework.IUebung;
 
 public class U030317 extends BaseUebung implements IUebung {
     public void A1(final double total){

@@ -1,7 +1,7 @@
-package Practices;
+package edu.meiktranel.javapractice.practices;
 
-import Framework.BaseUebung;
-import Framework.IUebung;
+import edu.meiktranel.javapractice.framework.BaseUebung;
+import edu.meiktranel.javapractice.framework.IUebung;
 
 public class U120217 extends BaseUebung implements IUebung{   
     

@@ -1,4 +1,4 @@
-package Framework;
+package edu.meiktranel.javapractice.framework;
 
 import java.util.Locale;
 

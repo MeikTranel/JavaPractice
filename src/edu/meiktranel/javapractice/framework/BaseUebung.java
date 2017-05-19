@@ -3,14 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Framework;
+package edu.meiktranel.javapractice.framework;
 
 import java.util.Scanner;
-import Framework.Converter;
+import edu.meiktranel.javapractice.framework.Converter;
 
 /**
  *
- * @author bbsuser
+ * @author meiktranel
  */
 public abstract class BaseUebung {
     protected final Scanner SC;

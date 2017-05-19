@@ -1,17 +1,12 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package Practices;
+package edu.meiktranel.javapractice.practices;
 
-import Framework.BaseUebung;
-import Framework.IUebung;
-import Framework.TableBuilder;
+import edu.meiktranel.javapractice.framework.BaseUebung;
+import edu.meiktranel.javapractice.framework.IUebung;
+import edu.meiktranel.javapractice.framework.TableBuilder;
 
 /**
  *
- * @author bbsuser
+ * @author meiktranel
  */
 public class U170317 extends BaseUebung implements IUebung{
 
